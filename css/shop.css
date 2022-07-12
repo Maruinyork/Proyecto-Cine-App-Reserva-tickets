@@ -124,6 +124,10 @@ input[type="reset"]{
   width: 100%;
 }
 
+.combos h3{
+  color: goldenrod;
+}
+
 .container p:nth-child(3) {
   font-size: 14px;
   margin-top: 15px;
