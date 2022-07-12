@@ -181,10 +181,10 @@ contenido.innerHTML = html;
     function time(){
         setTimeout(() => {
             Swal.fire ({
-                titleText: 'MUCHAS GRACIAS POR ELEGIRNOS',
+                titleText: 'Muchas gracias',
                 text: 'En instantes, sera redirigido a la plataforma de pago',
                 icon: 'info',
-                width: '50%',
+                width: '60%',
                 color: 'goldenrod',
                 background: 'rgb(13, 13, 13)'
             })
