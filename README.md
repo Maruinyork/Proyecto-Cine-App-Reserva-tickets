@@ -8,3 +8,4 @@ Este  es el proyecto final entregado a la catedra de JS de Coderhouse. Esta desa
 [![Movie5.jpg](https://i.postimg.cc/cLGSZ3f2/Movie5.jpg)](https://postimg.cc/2VGJ7Vc7)
 [![Movie6.jpg](https://i.postimg.cc/Hnzw6X0K/Movie6.jpg)](https://postimg.cc/sGBGXBN9)
 [![Movie7.jpg](https://i.postimg.cc/bwWQVzbz/Movie7.jpg)](https://postimg.cc/fV7tJQBF)
+[![movies.jpg](https://i.postimg.cc/PxN9b48T/movies.jpg)](https://postimg.cc/CBTcSbNQ)
